@@ -2,6 +2,10 @@
 
 ![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/download.png) 
 
+Heart Disease Prediction using Data Mining Technique			  
+Built an algorithm using supervised machine learning techniques (3) that uses 14 medical parameters such as age, sex, blood pressure, cholesterol, and obesity for effective heart disease prediction
+Took an existing data set, cleaned, and manipulated using python, created a GUI using HTML and CSS
+
 Source:
 
 Creators: 
