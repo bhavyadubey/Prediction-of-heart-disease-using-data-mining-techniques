@@ -1,4 +1,4 @@
-Heart Disease Prediction Using Data Mining Techniques
+##Heart Disease Prediction Using Data Mining Techniques
 
 Built an algorithm using the multilayer perceptron in machine learning that uses 14 medical parameters such as age, sex, blood pressure, cholesterol, and obesity for effective heart disease prediction. Took an existing data set, cleaned, and manipulated through python, created a UI using HTML and CSS
 
