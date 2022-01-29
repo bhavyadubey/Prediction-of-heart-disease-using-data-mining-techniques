@@ -1,4 +1,4 @@
-##Heart Disease Prediction Using Data Mining Techniques
+**Heart Disease Prediction Using Data Mining Techniques**
 
 Built an algorithm using the multilayer perceptron in machine learning that uses 14 medical parameters such as age, sex, blood pressure, cholesterol, and obesity for effective heart disease prediction. Took an existing data set, cleaned, and manipulated through python, created a UI using HTML and CSS
 
@@ -24,7 +24,7 @@ The Above Figure Sates the Gender differences in coronary heart disease and the 
 
 ![image](https://user-images.githubusercontent.com/42567661/151648858-9c7f02f3-c803-40c4-aa9d-f459c9e377ba.png)
 
-DataSets used :
+**DataSets used :**
 
 1.Cleavland Dataset
 
@@ -32,7 +32,7 @@ DataSets used :
 
 3.Long Beach Dataset
 
-Estimation Paremeters:
+**Estimation Paremeters:**
 Age , Sex , Chest Pain, Fasting Blood Sugar , Chol , Diabeties ,
 
 RestECG, Exang, Slope, CA , Thal , Trestbpa,Thalch,Old peak ST
